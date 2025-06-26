@@ -49,7 +49,7 @@ python -m rl_task.tasks.{task_name}.train
 For example, to train the tuned stack task:
 
 ```bash
-python -m rl_task.tasks.tuned-stack.training
+python -m rl_task.tasks.tuned-stack.train
 ```
 
 ## Monitoring Training
