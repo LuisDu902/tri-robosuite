@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./robosuite/rl-task/models",
+        "./robosuite/rl-task/buffers",
+        "./robosuite/rl-task/custom-environments",
+        "./robosuite/rl_task/buffers"
+    ]
+}
